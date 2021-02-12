@@ -7,10 +7,6 @@ This is the static website to get the Comexposium Catalogue plugin for wordpress
 To visit it and get it, please follow the link below :
 <https://wordpress-plugin.comexposium.fr/>
 
-### Author
-
-* **Hassan Akaou** - *Comexposium* - [Comexposium](https://www.comexposium.com)
-
-#### Contact
+### Contact
 
 <dweb@comexposium.com>
